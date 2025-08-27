@@ -6,8 +6,8 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About&nbsp;Me
 - 🎓 *Computer Engineer — Fresh Graduate*  
-- 💡 *Passions:* Machine Learning • Creative AI Solutions • Data Innovation • Project Management
-- ⚡ *Currently:* Building Startup ✨ & AI Agents   
+- 💡 *Passions:* Machine Learning • Creative AI Solutions • Big Data • Project Management
+- ⚡ *Currently:* Building Startup ✨ & AI Agents  
 
 ---
 
