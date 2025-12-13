@@ -1,61 +1,47 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7EDE9&center=true&vCenter=true&width=850&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Abdallah+Dwikat;Computer+Engineer+%7C+IoT+%26+AI+Enthusiast;Always+learning+new+tech!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=850&height=70&lines=Hi+there+👋+I'm+Abdallah+Dwikat;Data+Engineer+%7C+ML+%26+AI+Enthusiast;Always+learning+and+building+scalable+solutions" alt="Typing SVG">
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About&nbsp;Me
-- 🎓 *Computer Engineer — Fresh Graduate*  
-- 💡 *Passions:* Machine Learning • Creative AI Solutions • Big Data • Project Management
-- ⚡ *Currently:* Building Startup ✨ & AI Agents  
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+- 🎓 *Computer Engineer — Data Engineering Specialist*
+- 💡 *Passions:* Data Engineering • Machine Learning • Big Data • Scalable Platforms
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Languages & Tools
 <p align="center">
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQL"/>
   <br>
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
   <br>
   <!-- Databases & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-plain.svg" width="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-plain.svg" width="40" alt="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
   <br>
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://avatars.githubusercontent.com/u/73538700?s=200&v=4" width="40" alt="Cursor"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
 </p>
 
 ---
 
-### 🚀 AI&nbsp;&nbsp;<span>&nbsp;|&nbsp;</span>&nbsp;&nbsp;Computer&nbsp;Vision&nbsp;&amp;&nbsp;ML Playground
-<p align="center">
-  <img src="https://ultralytics.com/images/yo.gif" width="320" alt="YOLOv5 Real‑Time Detection GIF"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tinyMLx/brand/main/gifs/tinyml.gif" width="320" alt="Edge AI / TinyML"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch,keras,mysql,raspberrypi,linux" />
-</p>
-
-> *Edge‑ready models, real‑time analytics, and hardware‑accelerated deployments.*  
-> I *curate datasets, **distill architectures, and **squeeze milliseconds* out of Raspberry Pi & micro‑controllers.
-
----
-
-### 📫 Reach Me
+### 📫 Reach Me
 <p align="center">
   <a href="mailto:adweikat12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/abdallah-dwikat-04095927b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/abdallahdwikat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
